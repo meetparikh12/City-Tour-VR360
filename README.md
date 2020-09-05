@@ -6,6 +6,6 @@ The current application is based on a city of Germany, you can just clone the re
 
 This application is built using *React 360*, which is a library built on top of React. 
 
-It is designed to simplify the creation of complex UI. React 360 allows you to use familiar tools and concepts to create immersive 360 content on the web.
+It is designed to simplify the creation of complex UI. *React 360* allows you to use familiar tools and concepts to create immersive 360 content on the web.
 
 Link to the project: https://virtual-city-tour-r360.netlify.app/
